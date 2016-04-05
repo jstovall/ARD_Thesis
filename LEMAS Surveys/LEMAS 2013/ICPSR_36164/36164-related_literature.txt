@@ -1,0 +1,41 @@
+Bibliography
+Law Enforcement Management and Administrative Statistics (LEMAS), 2013
+
+This bibliography includes published and unpublished works that are related 
+to ICPSR study 36164. It includes works that are based on primary
+or secondary analysis of the data, or which describe or critique those
+data or the collection methodology. This list represents all items known
+to ICPSR as of 2016-02-23.
+
+If you publish a work or know of other works that are based on these data,
+please send the complete citation and name of the ICPSR study used to:
+bibliography@icpsr.umich.edu.
+
+
+1. Bies, Katherine J.; Deporto, Isaiah M.; Long, Darryl G.; McKoy, Megan
+S.; Mukamal, Debbie A.; Sklansky, David A., "Stuck in the '70s: The
+Demographics of California Prosecutors." Stanford, CA: Stanford Law School,
+Stanford Criminal Justice Center, Jul 2015.
+Full text PDF: https://media.law.stanford.edu/organizations/programs-and-centers/scjc/Stuck-in-the-70s-Final-Report.pdf
+
+2. Perez, Nicholas M.; Bromley, Max, "Comparing campus and city police
+human resource and select community outreach policies and practices: An
+update." Policing. 2015, 38, (4), 664 - 674. DOI: 10.1108/PIJPSM-07-2015-
+0084
+Full text PDF: https://media.law.stanford.edu/organizations/programs-and-centers/scjc/Stuck-in-the-70s-Final-Report.pdf
+
+3. Reaves, Brian A., "Local Police Departments, 2013: Equipment and
+Technology." NCJ 248767, Washington, DC: Office of Justice Programs, Bureau
+of Justice Statistics, Jul 2015.
+Abstract: http://www.bjs.gov/index.cfm?ty=pbdetail&iid=5321
+Full text: http://www.bjs.gov/content/pub/ascii/lpd13et.txt
+Full text PDF: http://www.bjs.gov/content/pub/pdf/lpd13et.pdf
+Presents findings on local police departments by population served in 2013,
+including comparisons with previous survey years. The report focuses on
+trends in the adoption of new types of equipment and technology. Topics
+include nonlethal weapons, in-car and body-worn video cameras, and license
+plate readers. The report covers the use of information technology by
+officers in the field to access records systems and to transmit incident
+reports. It also covers the use of websites and social media by departments
+for exchanging information with citizens. Data are from the 2013 Law
+Enforcement Management and Administrative Statistics (LEMAS) survey.

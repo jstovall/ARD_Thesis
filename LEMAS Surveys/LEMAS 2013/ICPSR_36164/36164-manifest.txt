@@ -1,0 +1,60 @@
+File Manifest for ICPSR 36164
+
+United States Department of Justice. Office of Justice Programs. Bureau of
+Justice Statistics. Law Enforcement Management and Administrative
+Statistics (LEMAS), 2013. ICPSR36164-v2. Ann Arbor, MI: Inter-university
+Consortium for Political and Social Research [distributor], 2015-09-22.
+http://doi.org/10.3886/ICPSR36164.v2
+
+Details on the version history can be found below the file listings.
+
+
+Study-level Documentation
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    36164-related_literature.txt        -       -         -       2016-02-22  -
+
+    36164-manifest.txt                  -       -         -       2016-02-23  -
+
+
+DS0001 Law Enforcement Management and Administrative Statistics (LEMAS),
+2013
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    36164-0001-Codebook.pdf             -       -         -       2015-09-22  6ec1bea8524005fe5686d6746f0b1906
+
+    36164-0001-Data.dta                 -       2,826     360     2015-09-22  d86af0bee391d87e434ed2a1942791b9
+
+    36164-0001-Data.rda                 -       2,826     360     2015-09-22  f4de4acf70579f21412955736572662e
+
+    36164-0001-Data.sav                 -       2,826     360     2015-09-22  43180454ac154e2705bec719ce776012
+
+    36164-0001-Data.stc                 -       2,826     360     2015-09-22  92d950b6c631fccbd3c8c39ca6c98208
+
+    36164-0001-Data.tsv                 -       2,826     360     2015-09-22  af4797f4df710e1b94f05d488a743d11
+
+    36164-0001-Data.txt                 5639    2,826     360     2015-09-22  0adc561c5cd276571c91c1db043de414
+
+    36164-0001-Setup.dct                -       -         -       2015-09-22  3feb92707f64f266e3d40487736d480d
+
+    36164-0001-Setup.do                 -       -         -       2015-09-22  0dd0aaa3b0a3c0f9e7510405b170b5b4
+
+    36164-0001-Setup.sas                -       -         -       2015-09-22  b738f44b31c10806b36125a0d7428090
+
+    36164-0001-Setup.sps                -       -         -       2015-09-22  145d46fac1ca5d54c49f43a13619697f
+
+    36164-0001-Supplemental_syntax.do   -       -         -       2015-09-22  d7af2e92c1f681024625906b55ce2818
+
+    36164-0001-Supplemental_syntax.sas  -       -         -       2015-09-22  f657ee7c8c29e1dd3d1576bba67bf421
+
+
+Version History
+
+2015-09-22 2015-08-13 The paragraph on imputation methods is removed from
+the codebook since the methods were used only for the BJS report and no
+imputed values are included in the data file.  2015-07-13 A note is added
+to the codebook on survey items H5 and H6.
